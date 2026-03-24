@@ -1,0 +1,122 @@
+p {
+    text-align: center;
+    color: white;
+}
+
+.two {
+    font-size: 14px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
+
+div {
+    text-align: center;
+}
+
+video {
+    max-width: 100%;
+    /* يمنع الفيديو من الخروج عن حدود الشاشة */
+    height: auto;
+    /* يحافظ على أبعاد الفيديو (النسبة والتناسب) */
+    border-radius: 8px;
+    /* اختياري: لإضافة زوايا منحنية */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    /* اختياري: ظل جمالي */
+}
+
+body {
+    background-color: black;
+}
+
+.qwe {
+    text-align: center;
+    background-color: rgb(194, 21, 21);
+    margin: 0px;
+    padding: 10px;
+}
+
+a {
+    color: rgb(139, 19, 19);
+    text-decoration: none;
+    /* إزالة الخط */
+    padding: 5px;
+}
+
+.my-custom-link {
+    color: white;
+    /* لون الرابط */
+    text-decoration: none;
+    /* إزالة الخط السفلي */
+    font-weight: bold;
+    /* جعل الخط سميك */
+    padding: 2px 5px;
+    border-radius: 4px;
+    margin: 7px;
+    background: rgb(100, 4, 4);
+    padding: 5px;
+}
+
+/* تنسيق عند تمرير الفأرة */
+.my-custom-link:hover {
+    background-color: #ddd;
+    color: #333;
+}
+
+.uio {
+    text-align: left;
+}
+
+.cat {
+    text-align: center;
+
+    font-size: bo;
+    text-align: center;
+}
+
+.opp {
+    text-align: center;
+    font-size: smaller;
+}
+
+.ant {
+    text-align: center;
+    font-size: smaller;
+}
+
+.qssam {
+    /* margin: 20px;
+    text-align: center; */
+    max-width: 100%;
+    /* يمنع الفيديو من الخروج عن حدود الشاشة */
+    height: auto;
+    /* يحافظ على أبعاد الفيديو (النسبة والتناسب) */
+    border-radius: 100px;
+    /* اختياري: لإضافة زوايا منحنية */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    /* اختياري: ظل جمالي */
+    padding: 30px;
+}
+
+.one {
+    margin: 0px 0 0 0;
+}
+
+.thre {
+    color: white;
+}
+
+.klmn {
+    text-align: left;
+    position: absolute;
+    bottom: 3;
+    left: 0;
+    color: white;
+    text-decoration: underline;
+    font-size: small;
+}
