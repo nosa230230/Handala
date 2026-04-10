@@ -118,7 +118,7 @@ a {
     left: 0;
     color: white;
     text-decoration: underline;
-    font-size: small;
+    font: size 50px;
 }
 
 .mno {
@@ -130,7 +130,7 @@ a {
     left: 0;
     color: white;
     text-decoration: underline;
-    font-size: small;
+    font-size: 50;
     margin-top: 0px;
 
 
